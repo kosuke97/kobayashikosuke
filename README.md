@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Albert King
 - 👀 I like to make friends.
-- 🌱 I’m currently working as an AI developer.
+- 🌱 I’m currently working as a full-stack developer & designer.
 - 📫 How to reach me: albertking1103@gmail.com
 
 <!---
