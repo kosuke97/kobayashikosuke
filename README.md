@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Albert King
+- 👋 Hi, I’m Kobayashi Kosuke
 - 👀 I like to make friends.
 - 🌱 I’m currently working as a full-stack developer & designer.
 - 📫 How to reach me: kobayashikosuke97@gmail.com
